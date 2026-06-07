@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.env.*
+*.har
+*token*
+*cookie*
+platform_raw*/
+scratch*/
+03_failed_or_noop_versions/
+02_candidate_versions/
+archive_misc/
+data/
