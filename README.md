@@ -1,6 +1,6 @@
 # Meituan AutoSolver Agent
 
-美团 AI Hackathon 04 AutoSolver 赛题最终交付仓库。仓库只保留 release 级材料：最终 `solver.py`、本地合法性 smoke test，以及精简技术文档。
+美团 AI Hackathon 04 AutoSolver 赛题最终交付仓库。
 
 本项目面向带随机完成概率的配送分配问题，将平台输入抽象为候选边集合，在任务互斥、骑手互斥、bundle exact-match 和运行时限制下，最小化期望配送成本。
 
